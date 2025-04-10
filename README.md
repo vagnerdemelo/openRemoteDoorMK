@@ -2,9 +2,9 @@
 
 Um aplicativo criado para integrar uma Steam Deck para abrir uma porta de maneira remota.
 
-OBS:
-
+> [!OBESERVAÇÃO]
 >App criado para uso interno de um cliente que utilize um sistema de controle de acesso em nuvem.
+> Para mais informações entre em contato.
 
 ## 🛠️ Requisitos
 
