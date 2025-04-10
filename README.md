@@ -44,7 +44,7 @@ pyinstaller --noconsole --onefile main.py
 
 Caso tenha gerado um arquivo `.exe` através do `Pyinstaller` e deseje que o mini server inicialize logo quando seu Windows iniciar, siga os passos abaixo:
 
-1. crie um atalho na Área de Trabalho do Windows à partir do arquivo de distruibuição gerado em `dist/main`.
+1. Crie um atalho na Área de Trabalho do Windows à partir do arquivo de distruibuição gerado em `dist/main`.
 
 2. Pressione `Win + R`, digite `shell:startup` e mova o atalho criado na Àrea de Trabalho para a pasta que foi aberta.
 
